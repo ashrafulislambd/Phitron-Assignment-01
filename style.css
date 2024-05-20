@@ -1,0 +1,95 @@
+@media (max-width: 576px) {
+    #navmenu {
+        width: 100%; 
+    }
+}
+
+#navmenu a {
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+
+#navmenu a:hover {
+    color: blue;
+}
+
+#resume-button {
+    color: white !important;
+}
+
+@media (min-width: 768px) {
+    #banner-holder {
+        width: 55%; 
+    }
+}
+
+.font-large {
+    font-size: xx-large;
+    color: black;
+}
+
+.font-medium {
+    font-size: large;
+    color: black;
+}
+
+a i:hover {
+    color: blue;
+}
+
+.align-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .project {
+        width: 90%;
+    }
+}
+
+@media (min-width: 768px) {
+    .project {
+        width: 70%;
+    }
+}
+
+@media (max-width: 768px) {
+    .thumbnail {
+        width: 90%;
+    }
+}
+
+@media (min-width: 768px) {
+    .thumbnail {
+        width: 40%;
+    }
+}
+
+@media (min-width: 768px) {
+    #skillset {
+        width: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-form {
+        width: 90%;
+    }
+}
+
+@media (min-width: 768px) {
+    .contact-form {
+        width: 50%;
+    }
+}
+
+.block {
+    display: block;
+}
